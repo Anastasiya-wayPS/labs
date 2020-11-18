@@ -1,0 +1,13 @@
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1- '2')\Laba(1- '2')\obj\Debug\netcoreapp3.1\Laba(1- '2').csprojAssemblyReference.cache
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1- '2')\Laba(1- '2')\obj\Debug\netcoreapp3.1\Laba(1- '2').AssemblyInfoInputs.cache
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1- '2')\Laba(1- '2')\obj\Debug\netcoreapp3.1\Laba(1- '2').AssemblyInfo.cs
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1- '2')\Laba(1- '2')\obj\Debug\netcoreapp3.1\Laba(1- '2').csproj.CoreCompileInputs.cache
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1- '2')\Laba(1- '2')\bin\Debug\netcoreapp3.1\Laba(1- '2').exe
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1- '2')\Laba(1- '2')\bin\Debug\netcoreapp3.1\Laba(1- '2').deps.json
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1- '2')\Laba(1- '2')\bin\Debug\netcoreapp3.1\Laba(1- '2').runtimeconfig.json
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1- '2')\Laba(1- '2')\bin\Debug\netcoreapp3.1\Laba(1- '2').runtimeconfig.dev.json
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1- '2')\Laba(1- '2')\bin\Debug\netcoreapp3.1\Laba(1- '2').dll
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1- '2')\Laba(1- '2')\bin\Debug\netcoreapp3.1\Laba(1- '2').pdb
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1- '2')\Laba(1- '2')\obj\Debug\netcoreapp3.1\Laba(1- '2').dll
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1- '2')\Laba(1- '2')\obj\Debug\netcoreapp3.1\Laba(1- '2').pdb
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1- '2')\Laba(1- '2')\obj\Debug\netcoreapp3.1\Laba(1- '2').genruntimeconfig.cache

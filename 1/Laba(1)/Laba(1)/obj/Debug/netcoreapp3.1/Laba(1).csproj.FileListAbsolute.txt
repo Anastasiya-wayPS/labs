@@ -1,0 +1,13 @@
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1)\Laba(1)\obj\Debug\netcoreapp3.1\Laba(1).csprojAssemblyReference.cache
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1)\Laba(1)\obj\Debug\netcoreapp3.1\Laba(1).AssemblyInfoInputs.cache
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1)\Laba(1)\obj\Debug\netcoreapp3.1\Laba(1).AssemblyInfo.cs
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1)\Laba(1)\obj\Debug\netcoreapp3.1\Laba(1).csproj.CoreCompileInputs.cache
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1)\Laba(1)\bin\Debug\netcoreapp3.1\Laba(1).exe
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1)\Laba(1)\bin\Debug\netcoreapp3.1\Laba(1).deps.json
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1)\Laba(1)\bin\Debug\netcoreapp3.1\Laba(1).runtimeconfig.json
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1)\Laba(1)\bin\Debug\netcoreapp3.1\Laba(1).runtimeconfig.dev.json
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1)\Laba(1)\bin\Debug\netcoreapp3.1\Laba(1).dll
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1)\Laba(1)\bin\Debug\netcoreapp3.1\Laba(1).pdb
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1)\Laba(1)\obj\Debug\netcoreapp3.1\Laba(1).dll
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1)\Laba(1)\obj\Debug\netcoreapp3.1\Laba(1).pdb
+C:\Users\Настасья\Desktop\IT_LR1-8_JavaScript_Praktikum\Лабы по ТП\Laba(1)\Laba(1)\obj\Debug\netcoreapp3.1\Laba(1).genruntimeconfig.cache
