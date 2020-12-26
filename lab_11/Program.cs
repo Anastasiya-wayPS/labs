@@ -81,7 +81,7 @@ namespace lab_11
 								public string Salary
 								{
 												get => Salary;
-												set => Salary = value.ToString().Substring(1);
+												set => Salary = value.ToString().Length > 1 ? value.ToString().Substring(1) : value.ToString();
 								}
 								public string Language;
 
